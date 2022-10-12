@@ -1,5 +1,5 @@
 # Weather
-Stylish weather app made with SwiftUI. The data is provided by [OpenWeatherAPI] (https://openweathermap.org/api). In the build, I've used:
+Stylish weather app made with SwiftUI. The data is provided by [OpenWeatherAPI](https://openweathermap.org/api). In the build, I've used:
 1. Networking with JSON and API;
 2. Lottie Animations;
 3. MVVM pattern;
